@@ -25,7 +25,7 @@ SELECT_EXAMPLES = [
     {
         "question": "Which of these are plants?",
         "options_text": '\n'.join(["Lily", "Giraffe", "Cactus", "Rose"]),
-        "answer": "Lily\nGiraffe\nCactus\nRose"
+        "answer": "Lily\nCactus\nRose"
     },
 ]
 
